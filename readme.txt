@@ -1,4 +1,4 @@
-Contains sources for:
+Will contain sources for:
 
 An IRCbot written in Java
 - sits on an irc channel and communicates with arduino over an usb serial connection
